@@ -1,5 +1,5 @@
 # fivem-react-template
-A template to react/fivem link.
+A template to react/fivem link. Javascript not TS.
 ## Getting Started
 **Clone the git repo**
 

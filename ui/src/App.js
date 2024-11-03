@@ -27,9 +27,7 @@ function App() {
 
   return (
     <div id="app" hidden={hidden}>
-      <a>FiveM React boilerplate with Lua</a>
-      <a>itsqpr</a>
-      <a>Version 1.0.2</a>
+      <a>Hello, World !</a>
       <a>Use ESC to close</a>
     </div>
   );

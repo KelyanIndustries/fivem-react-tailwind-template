@@ -9,7 +9,7 @@ A template to react/fivem link.
 
     npm install
 
-**To see change on FiveM**
+**To see changes on FiveM**
 
     npm run build
 

@@ -1,2 +1,19 @@
 # fivem-react-template
- A template to react/fivem link. 
+A template to react/fivem link.
+## Getting Started
+**Clone the git repo**
+
+    git clone https://github.com/KelyanIndustries/fivem-react-template.git
+
+**Install dependencies**
+
+    npm install
+
+**To see change on FiveM**
+
+    npm run build
+
+**To dev on website (not on FiveM)**
+
+    npm run start
+

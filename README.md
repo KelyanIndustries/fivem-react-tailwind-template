@@ -3,7 +3,7 @@ A template to react/fivem link and TailwindCSS. Javascript not TS.
 ## Getting Started
 **Clone the git repo**
 
-    git clone https://github.com/KelyanIndustries/fivem-react-template.git
+    git clone [https://github.com/KelyanIndustries/fivem-react-template.git](https://github.com/KelyanIndustries/fivem-react-tailwind-template.git)
 
 **Install dependencies**
 
